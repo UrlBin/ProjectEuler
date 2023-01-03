@@ -22,7 +22,7 @@
 #
 # What is the value of the first triangle number to have over five hundred divisors?
 
-# Answer: 76576500 (it takes a lot of time of CPU).
+# Answer: 76576500 (it takes a lot of time of CPU ~ 18 min with numba).
 
 
 divisors: int = 7
